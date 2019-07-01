@@ -21,3 +21,6 @@
 - rewind();
 
 - fflush();
+
+## do not use root
+## use man
