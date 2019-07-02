@@ -57,3 +57,20 @@ can not mix the *stdio* and *sysio*!
 convert: fileno, fdopen
 
 to see a program how to sys call: strace
+
+
+
+to see how long a program takes:
+time ...
+
+
+## atomic operation: solve comflict
+
+can not divided!
+
+## dup, dup2
+
+fcntl(): fd manager
+ioctl(): device manager
+
+/dev/fd/  : a visual directory, shows the fd infos of current process
